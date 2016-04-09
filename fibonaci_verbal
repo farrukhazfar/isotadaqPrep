@@ -1,0 +1,8 @@
+iterative:
+===========
+
+
+OK Here is the algebraic definition of fibonacci numbers : F_n =F_{n-1}+F_{n-2}
+Now the seed values are F_0=0, F_1=1. For a function of the type iterative_fibonacci(int n) we simply put an 
+if condition and return 0 or 1 if n=0 or 1 respectively, writing this kind of function iteratively means that I have to 
+increment a counter that takes me up to n-1 of the input number n. 

@@ -1,0 +1,18 @@
+
+PYTHON:
+=========
+
+http://docs.python.org/tutorial/introduction.html
+
+search for Slice indices have useful defaults; an omitted first index defaults to zero, an omitted second index defaults to the size of the string being sliced.
+
+Start here:
+http://docs.python.org/tutorial/controlflow.html
+
+
+C REVISION :
+==============
+
+page 19/40. Just did structs....
+page 25/40 getting the hang of recursive i think....fibonacci done, libraries done
+
