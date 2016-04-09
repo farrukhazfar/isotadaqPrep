@@ -1,0 +1,7 @@
+http://docs.python.org/tutorial/introduction.html
+
+search for Slice indices have useful defaults; an omitted first index defaults to zero, an omitted second index defaults to the size of the string being sliced.
+
+Start here:
+http://docs.python.org/tutorial/controlflow.html
+
