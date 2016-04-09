@@ -1,0 +1,431 @@
+     1	17:16	cd aqm_boo
+     2	17:16	cd aqm_book
+     3	16:28	grep warranty *
+     4	16:28	ls ghostview
+     5	16:28	ls -alt ghostview
+     6	16:28	ls -alt pdetails.doc
+     7	20:29	emacs -nw daqproblems19062011.txt
+     8	23:01	ine
+     9	1:40	mv aqm_book.pdf ~/.
+    10	0:18	emacs -nw referenceslist.txt
+    11	0:26	cal 6 2011
+    12	18:54	more jetsall.root
+    13	17:31	grep Edmund *
+    14	21:05	cal 7 2011
+    15	16:12	ls *help*
+    16	16:12	ls *desk*
+    17	0:19	emacs application_list.txt
+    18	0:31	pinw
+    19	14:20	emacs -nw paula.txt
+    20	20:13	more servicedesk.txt
+    21	22:46	________________________________________
+    22	22:46	From: Farrukh Azfar [azfar@physics.ox.ac.uk]
+    23	22:46	Sent: 29 June 2011 20:25
+    24	22:46	To: Amanda A Thompson
+    25	22:46	Subject: leaving /goodbye/etc
+    26	22:46	Dear Amanda,
+    27	22:46	I am leaving for the UK on July 6th. My J-1 expires July 10th. Please do
+    28	22:46	let me know if there is any paper work that I need to do for you.
+    29	22:46	I shall probably come to the Fermilab for 2 weeks at the end of September
+    30	22:46	on the Visa Waiver program-if you need to know or if you brief people on what
+    31	22:46	to do when they arrive etc.
+    32	22:46	I will also probably come to Fermilab in December for a week or two again
+    33	22:46	on the waiver.
+    34	22:46	many thanks for your time. There is a very informal get together for me
+    35	22:46	with food and drink at the USERS center on Friday around 5 should you
+    36	22:46	want to attend. Any drinks are on me.
+    37	22:46	yours,
+    38	22:46	Farrukh
+    39	22:46	*Dr Farrukh Azfar *
+    40	22:46	\*Oxford University, ^-^-^-@@-^-^-^ *
+    41	22:46	*Department of Particle and Astro Physics. ( .. ) ------ ; *
+    42	22:46	*Telephone:01865-283109, Mobile: 07787-761042 || --- || *
+    43	22:46	* http://www-pnp.physics.ox.ac.uk/~azfar ^^ ^^ *
+    44	22:46	****************************************************************
+    45	11:51	ls *root*
+    46	11:51	ls *.C
+    47	11:52	more jeanneCode.C
+    48	18:11	more daysinus.txt
+    49	14:50	ls -alt karen*
+    50	14:50	chmod +rw karen*
+    51	17:41	./cpscriptfg
+    52	18:49	emacs -nw libarts_template.txt
+    53	19:59	ls -alt *.pdf
+    54	19:59	ls -alt *.pdf | more
+    55	20:27	cp wiretransfer.pdf ~/public_html/.
+    56	20:29	emacs -nw dead.letter
+    57	20:33	cp dead.letter stfc.overpayment
+    58	13:54	cal 8 2011
+    59	20:57	more dead.letter
+    60	19:29	killall -9 vi
+    61	11:05	grep Clements *
+    62	15:58	ls *recip*
+    63	12:28	emacs chapter4.tex
+    64	13:57	PINE
+    65	21:22	qqm
+    66	15:36	.ps
+    67	16:27	emacs -nw chapter.tex
+    68	21:06	ls *abs*
+    69	21:06	ls */*absen*
+    70	21:06	ls */*/*absen*
+    71	9:59	ls -alt resume.tex
+    72	9:59	emacs -nw resume.tex
+    73	10:02	ssh morphesu
+    74	10:40	cp resume_teaching.pdf public_html/.
+    75	14:31	ls -altcf | more
+    76	14:35	mkdir illustrations
+    77	14:35	cd illustrations/
+    78	14:39	tar -zxvf axodraw.tgz
+    79	14:39	ls axodraw
+    80	14:39	cd axodraw
+    81	14:39	gv contour1.ps
+    82	14:49	cd ../
+    83	15:04	ls -alt j1letter.tgz
+    84	15:04	more j12009.tex
+    85	15:05	more homeoffficeletter.
+    86	15:05	more homeoffficeletter.tex
+    87	15:05	ls -alt homeoffficeletter.tex
+    88	15:05	more formula.tex
+    89	15:07	more uic.tex
+    90	15:08	ls -alt uic.tex
+    91	15:08	more rent.tex
+    92	15:09	more definitions.tex
+    93	15:09	more teedin.tex
+    94	15:09	more intensity.tex
+    95	15:10	more intensity.tex~
+    96	15:10	cp intensity.tex~ intensity.tex
+    97	15:10	ls 61
+    98	15:10	cd texput.log
+    99	15:10	ls -alt | grep 1999
+   100	15:10	ls -alt | grep 2000
+   101	12:01	cp rentdepositadmin.pdf public_html/.
+   102	16:27	ls contour*
+   103	16:27	grep contour chapter4.tex
+   104	16:28	grep contour chapter4.tex | more
+   105	16:28	cd illustrations/axodraw
+   106	16:28	emacs -nw contour1.tex
+   107	16:29	cd ../../
+   108	12:14	grep Aurora *
+   109	12:14	more steve_dee.txt
+   110	19:00	mv leashlocket.pptx public_html/.
+   111	12:03	emacs -nw bsf0.txt
+   112	17:55	q
+   113	16:31	emacs -nw ATLASWORK.txt
+   114	17:12	ssh morpheys
+   115	10:06	ssh morpheus -l azfar
+   116	12:46	s
+   117	13:47	ks
+   118	16:02	grep hopalong *
+   119	18:01	spine
+   120	8:22	kinit -f azfar
+   121	13:57	clar
+   122	18:15	ls loud*
+   123	21:58	cp public_html/resume_teaching.pdf cv2.pdf
+   124	16:30	./ ; a
+   125	17:25	cal 9 2011
+   126	17:28	cal 10 2011
+   127	18:40	grep -i kerr *
+   128	18:40	grep Kerr *
+   129	11:34	chmod +wr resume.pdf
+   130	11:34	chmod +wrxtwewe resume.pdf
+   131	11:34	chmod +wrxtw resume.pdf
+   132	11:34	ls -alt resume.pdf
+   133	12:56	emacs libarts_template.txt
+   134	12:56	ls *col*
+   135	12:56	ls us*
+   136	12:56	ls *coll*
+   137	13:54	./ema
+   138	17:40	./la`
+   139	20:19	grep Puget *
+   140	20:19	emacs -nw application_list.txt
+   141	15:42	ls -alt *resear*
+   142	15:42	more research.tex
+   143	15:43	finger
+   144	18:40	emacs -nw closer_connection_justincase.txt
+   145	11:02	lpine
+   146	19:29	cd te
+   147	19:29	ls -alt tex
+   148	19:29	cd tex/
+   149	19:29	ls -alt
+   150	19:29	ls -alt | more
+   151	23:00	emacs -nw teaching.tex
+   152	15:57	ls *pass*
+   153	16:39	grep query *
+   154	16:39	more libarts_template.txt
+   155	16:41	ls resume*
+   156	16:41	ls -alt resume_teaching.pdf
+   157	16:43	ls *us*
+   158	16:43	grep Clearwater *.txt
+   159	16:44	grep Grinnell *.txt
+   160	16:44	more application_list.txt
+   161	21:03	cd tex
+   162	21:04	cd tex/tex
+   163	21:04	ls *cover*
+   164	21:04	more letterfnal.tex
+   165	21:26	ls -alt research.tex
+   166	21:26	emacs -nw research
+   167	22:59	ls ~/Thesis.pdf
+   168	22:59	cp ~/Thesis.pdf ~/public_html/.
+   169	23:29	more teaching.tex
+   170	23:29	emacs -nw research.tex
+   171	0:14	ls resu*
+   172	0:14	more resume.tex
+   173	18:28	ls *.jpg
+   174	18:28	ls *letter*
+   175	18:29	ls *neutr*
+   176	19:01	more chapter4.tex
+   177	18:21	ls *award*
+   178	18:21	ls *obert*
+   179	17:29	finger todd
+   180	17:46	emacs -nw acknowledgements.tex
+   181	19:55	./ps2pd
+   182	21:23	ls cv*
+   183	21:23	ls -alt cv.pdf
+   184	21:23	ssh matrix.physics.ox.ac.uk -l azfar
+   185	21:23	ssh matrix.physics.ox.ac.uk
+   186	21:24	ssh morpheus.physics.ox.ac.uk
+   187	16:44	./ola
+   188	15:08	./bib
+   189	15:32	./bi
+   190	15:33	./bin
+   191	15:33	~bi
+   192	18:14	more chapters1and2.tex
+   193	18:15	emacs chapter1.tex
+   194	18:16	ls -alt ~/public_html/chapters1and2.pdf
+   195	18:17	touch ~/public_html/chapters1and2.pdf
+   196	18:17	rm chapters1and2.pdf
+   197	18:21	ls chapters1and2.pdf
+   198	18:21	ls -alt chapters1and2.pdf
+   199	18:21	ls cha*
+   200	18:22	vf
+   201	19:56	more chapter1.tex
+   202	19:57	./ps
+   203	20:49	; s
+   204	22:01	bibtex aqm_book.tex
+   205	22:02	bibtex chapter1and2
+   206	22:07	latex chapter1and2.tex
+   207	22:21	/./cps
+   208	22:24	grep panovsky chapter1.tex
+   209	22:24	grep jackson chapter1.tex
+   210	22:25	dvips chapters1and2.dvi
+   211	22:25	latex chapters1and2.tex
+   212	22:34	latex bibliography.tex
+   213	22:34	bibtex chapters1and2
+   214	22:34	bibitem aqm_book
+   215	22:35	./pspdfscript`
+   216	22:37	grep rqmgreiner chapter2.tex
+   217	22:37	more ws-book-sample.bib
+   218	22:45	bibtex
+   219	22:45	bibtex aqm_book
+   220	22:48	more bibliography.tex
+   221	12:04	ls *.aux
+   222	12:05	rm *.aux
+   223	12:05	rm *.log
+   224	12:06	cp chapters1and2.pdf ~/public_html/.
+   225	10:38	grep usepackage aqm_book.tex
+   226	10:45	more aqm_book.tex
+   227	10:56	emacs -nw aqm_book.tex
+   228	17:42	emacs -nw chapter3.te
+   229	13:05	more louise_letter_mpi.txt
+   230	13:05	ls *louise*
+   231	13:05	more louise_letter_chicago.txt
+   232	15:44	emacs -nw louise_letter_chicago.txt
+   233	17:21	emacs -nw bibliography.tex
+   234	17:24	./cp[s
+   236	17:26	l
+   237	22:03	cp chapters1and2.tex chapters12and3.tex
+   238	16:16	[wd
+   239	16:16	ssh pplxint1
+   240	17:09	emacs -nw chapter2.tex
+   241	17:12	../cps
+   242	21:06	./cpscript./cps
+   243	10:25	emacs -nw atomic_physics.txt
+   244	11:47	emacs chapter3.tex
+   245	11:50	./pd
+   246	17:02	pwd
+   247	17:17	more chapters12and3.tex
+   248	17:19	cp aqm_book.tex chapters12and3.tex
+   249	17:19	emacs -nw chapters12and3.tex
+   250	20:15	cd bookl
+   251	22:31	cp chapters12and3.tex chapters123and4.tex
+   252	22:31	emacs -nw chapters123and4.tex
+   253	22:34	latex problems1.tex
+   254	22:34	more aqm_problems.tex
+   255	22:34	cp aqm_problems.tex aqm_problems1.tex
+   256	22:35	./latexscript aqm_problems1.tex
+   257	22:35	dvips aqm_problems1.dvi -o aqm_problems2.ps
+   258	22:36	ps2pdf aqm_problems1.ps
+   259	22:36	cp aqm_problems1.pdf ~/public_html/.
+   260	22:43	dvips chapters123and4.dvi -chapters123and4.ps
+   261	22:44	emacs chapters123and4.tex
+   262	22:45	k chapters123and4.te
+   263	22:49	latex chapters123and4.tex
+   264	22:49	dvips chapters123and4.dvi -o chapters123and4.ps
+   265	22:49	ps2pdf chapters123and4.ps
+   266	22:49	cp chapters123and4.pdf ~/public_html/.
+   267	0:11	emacs -nw latexscript.tex
+   268	17:31	bg
+   269	17:31	killall latexscript
+   270	17:37	fg
+   271	18:20	emacs -chapter4.tex
+   272	18:21	ps
+   273	17:44	cp chapters123and4.tex chapters1234and5.tex
+   274	17:44	emacs -nw chapters1234and5.tex
+   275	17:45	more latexscript
+   276	17:46	more pspdfscript
+   277	14:43	.la
+   278	14:43	.cps
+   279	14:45	rm aqm_book.pdf
+   280	14:51	emacs -nw chapter3.tex
+   281	22:02	ls -alt *chapter4*
+   282	20:57	ls *molle*
+   283	20:57	ls *.pdf
+   284	20:57	ls *.pdf | mpre
+   285	20:57	ls *.pdf | more
+   286	20:58	ls *Mol*
+   287	14:34	cp chapter4.tex fluxcorrect.tex
+   288	12:14	cp chapters1234and5.tex chapters12346and6.tex
+   289	12:15	cp chapters1234and5.tex chapters12345and6.tex
+   290	12:15	emacs -nw chapters12345and6.tex
+   291	12:16	emacs -nw latexscript
+   292	12:16	emacs -nw pspdfscript
+   293	12:17	more cpscript
+   294	13:10	ls *proble*
+   295	18:02	ls *problem*
+   296	18:05	ls *.tex
+   297	18:05	ls *prob*.tex
+   298	18:06	more problems2.tex
+   299	18:06	emacs -nw aqm_problems2.tex
+   300	18:09	latex aqm_problems2.tex
+   301	18:10	ps2pdf aqm_problems2.ps
+   302	18:15	cp aqm_problems2.pdf ~/azfar/
+   303	18:15	cp aqm_problems2.pdf ~/azfar/.
+   304	18:16	ls -alt aqm_problems2.pdf
+   305	18:17	cp aqmproblems2.pdf ~/public_html/.
+   306	18:18	emacs aqm_problems1.tex
+   307	18:19	ps2pdf aqm_problems1.ps aqm_problems2.pdf
+   308	18:19	ps2pdf aqm_problems1.ps aqmproblems2.pdf
+   309	18:20	cp aqmproblems.pdf ~/public_html/balls.pdf
+   310	19:21	emacs -nw aqm_problems1.tex
+   311	19:22	latex aqm_problems1.tex
+   312	19:22	dvips aqm_problems1.dvi -o aqm_problems1.ps
+   313	19:22	ps2pdf aqm_problems1.ps aqmproblems.pdf
+   314	19:22	cp aqmproblems.pdf ~/public_html/gall.pdf
+   315	19:22	cp aqmproblems.pdf ~/public_html/.
+   316	19:23	cp aqm_problems2.pdf ~/public_html/.
+   317	19:21	ssh matrix
+   318	16:41	ls louise*
+   319	16:41	cd public_html
+   320	16:41	ls -alt lou*
+   321	12:44	ssh morpheus
+   322	10:53	d book
+   323	10:53	emacs -nw chapter5.tex
+   324	11:09	./cpscript`
+   325	10:15	/la
+   326	10:17	killall -9 latex
+   327	10:17	emacs -nw chapter4.tex
+   328	10:32	./la
+   329	10:37	emacs -nw chapter1.trex
+   330	10:38	la
+   331	5:21	mkdir isodaqpreparation
+   332	5:24	locate python
+   333	5:25	ls /usr/local/bin/python
+   334	5:26	ls /usr/
+   335	5:26	ls /usr/local/
+   336	5:26	which python
+   337	11:35	isodaqpreparation/
+   338	11:38	man printf
+   339	11:43	man 3 printf
+   340	11:52	gcc -E basic.c
+   341	11:52	gcc -S basic.c
+   342	11:52	more basic.s
+   343	11:53	gcc -c basic.c
+   344	13:32	cd
+   345	14:11	emacs -nw compileretc
+   346	14:19	exdit
+   347	15:41	cd book
+   348	15:42	emacs -nw chapter1.tex
+   349	16:00	./latexscript
+   350	16:01	./pspdfscript
+   351	16:01	./cpscript
+   352	7:21	more website
+   353	8:18	emacs -nw datetime-example1.py
+   354	8:18	python datetime-example1.py
+   355	8:29	emacs -nw datetime-example.py
+   356	8:30	python datetime-example.py
+   357	8:31	date
+   358	9:23	emacs -nw website
+   359	10:00	gcc basic.
+   360	10:01	gcc
+   361	10:59	gcc basic.c
+   362	11:09	emacs -nw progress
+   363	12:46	python
+   364	13:41	ls python.py
+   365	13:41	ls *.py
+   366	13:41	more datetime-example
+   367	13:41	more datetime-example.py
+   368	13:59	cp datetime-example.py primenumbers.py
+   369	13:59	ls primenumbers.py*
+   370	13:59	more primenumbers.py
+   371	13:59	more primenumbers.py~
+   372	13:59	cp primenumbers.py~ primenumbers.py
+   373	14:11	emacs -nw primenumbers.py
+   374	14:24	python primenumbers.py
+   375	6:27	more progress
+   376	6:42	more basic.c
+   377	6:43	emacs -nw basic.c
+   378	9:02	emacs -nw increment.c
+   379	9:03	g++ increment.c
+   380	9:03	a.out
+   381	9:37	iso
+   382	9:42	g++ iterative.c
+   383	9:42	emacs -nw iterative.c
+   384	9:42	mv iterative.c factorial.c
+   385	10:28	g++ factorial.
+   386	11:48	emacs -nw facotorial.c
+   387	13:14	cd isodaq
+   388	13:34	Rewrite both the iterative and recursive factorial functions using forward counting ( from 1 to num ) .
+   390	13:46	g++ factorial.c
+   391	14:51	cd isodaqpreparation/
+   396	16:05	emacs fibonacci.c
+   397	16:20	pine
+   398	16:20	exit
+   399	10:21	cd isodaqpreparation
+   411	11:44	.a/.ou
+   416	12:14	emacs -nw fibonacci.c
+   417	12:20	gcc fibonacci.c
+   419	12:21	./a.out > fibon
+   421	12:21	clear
+   422	12:21	ls
+   423	12:21	emacs -nw fibonaci_verbal
+   424	12:33	./a.out
+   425	12:35	ls factorial
+   426	12:35	ls fact*
+   429	12:57	more factorial_lib.h
+   430	12:58	more factorial_lib.c
+   431	12:58	emacs -nw factorial_lib.h
+   432	12:58	grep recursive fibon
+   434	13:09	emacs -nw calculate_seven_factorial.c
+   435	13:10	mv calculate_seven_factorial.c print_lib.c
+   438	13:12	more print_lib.c
+   440	13:13	#include < stdio.h >
+   441	13:13	#include "fact_lib.h"
+   442	13:13	#include "print_lib.h"
+   443	13:13	int main ( int argc, const char * argv[] ) {
+   444	13:13	calc_fact_6 ( ) ;
+   445	13:13	return 0 ;
+   446	13:13	}
+   447	13:13	fact6gcc -c fact_lib.c print_lib.c
+   448	13:13	gcc -c fact_lib.c print_lib.c
+   449	13:13	ls 8.o
+   451	13:14	ls *.c
+   453	13:14	ls *.o
+   455	13:16	emacs -nw test_libs.c
+   457	13:17	test_libs
+   459	13:17	emacs -nw factorial.c
+   464	13:20	more factorial.c
+   466	13:20	emacs -nw factorial_lib.c
+   467	13:21	gcc -c factorial_lib.c print_lib.c
+   468	13:21	gcc -o test_libs test_libs.c factorial_lib.o print_lib.o
+   469	13:22	./test_libs
+   470	13:26	history > compiling_linking_libraries.txt

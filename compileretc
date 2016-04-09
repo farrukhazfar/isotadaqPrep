@@ -1,0 +1,5 @@
+gcc -E basic.c (preprocessor only)
+gcc -S basic.c (into assembler output in .S)
+gcc -o basic.c (into an executable)
+
+page 16/40.

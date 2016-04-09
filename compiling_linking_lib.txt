@@ -1,0 +1,5 @@
+
+compile the libraries
+gcc -c factorial_lib.c print_lib.c
+link the executable test_libs, test_libs.c contains the main() function
+gcc -o test_libs test_libs.c factorial_lib.o print_lib.o
